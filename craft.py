@@ -115,4 +115,4 @@ def train(train=True):
 
 if __name__ == '__main__':
     train(False)
-    # test('/home/user4/ysx/demo/CRAFT_214000.ckpt', '/home/user4/ysx/CRAFT/802.jpg')
+    test('/content/craft_model/CRAFT_262000.ckpt.data-00000-of-00001', '/content/test.png')
